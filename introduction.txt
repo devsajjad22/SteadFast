@@ -1,0 +1,12 @@
+at first install this project
+using db seed or db folder database
+
+some user details
+email: akash@gmail.com
+	babul@gmail.com
+	hiya@gmail.com
+password: password
+
+//
+go sidebar "Tax Calculator" option and check Tax Calculation
+Bangladesh Standard tax Calculation follow and create this calculator
